@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SimonUpp</h1>
 <h3 align="center">A student located near FFM!</h3>
 
-<p align="center">- 🌱 I’m currently learning **everything in the Web-Development**</p>
+<p align="center">- 🌱 I’m currently learning everything in the Web-Development</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
